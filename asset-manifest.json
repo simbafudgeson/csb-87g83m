@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "https://.github.io/csb-87g83m/static/js/main.e1250c73.chunk.js",
+    "main.js.map": "https://.github.io/csb-87g83m/static/js/main.e1250c73.chunk.js.map",
+    "runtime-main.js": "https://.github.io/csb-87g83m/static/js/runtime-main.a4bb1f38.js",
+    "runtime-main.js.map": "https://.github.io/csb-87g83m/static/js/runtime-main.a4bb1f38.js.map",
+    "static/js/2.39d416ce.chunk.js": "https://.github.io/csb-87g83m/static/js/2.39d416ce.chunk.js",
+    "static/js/2.39d416ce.chunk.js.map": "https://.github.io/csb-87g83m/static/js/2.39d416ce.chunk.js.map",
+    "index.html": "https://.github.io/csb-87g83m/index.html",
+    "precache-manifest.9e7669bc8aa5038f6bc23956d0b5c5c9.js": "https://.github.io/csb-87g83m/precache-manifest.9e7669bc8aa5038f6bc23956d0b5c5c9.js",
+    "service-worker.js": "https://.github.io/csb-87g83m/service-worker.js",
+    "static/js/2.39d416ce.chunk.js.LICENSE": "https://.github.io/csb-87g83m/static/js/2.39d416ce.chunk.js.LICENSE",
+    "static/media/uwucupcake.png": "https://.github.io/csb-87g83m/static/media/uwucupcake.f173d2b5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a4bb1f38.js",
+    "static/js/2.39d416ce.chunk.js",
+    "static/js/main.e1250c73.chunk.js"
+  ]
+}
